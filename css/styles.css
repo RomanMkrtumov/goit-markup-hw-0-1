@@ -1,0 +1,28 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+.header-menu-link {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.header-menu-link-new {
+  font-style: normal;
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1, 5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
